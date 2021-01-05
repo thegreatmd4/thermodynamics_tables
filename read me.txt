@@ -1,0 +1,6 @@
+before runnig the codes:
+1_make sure your EES is instaled on C:\EES32.
+2_make a folder named 'EESTEMP' on C:
+3_the maine code is app1.
+4_for runnin the code open MATLAB as administrator.
+5_all the files must be open
